@@ -8,3 +8,9 @@
 yarn
 yarn storybook
 ```
+
+## Resources:
+
+`VSCode` useful extensions for storybook with React
+
+[Storybook-helper](https://marketplace.visualstudio.com/items?itemName=riccardoforina.storybook-helper)
